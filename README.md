@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tareq Radi</h1>
-    <h3 align="center">A passionate frontend developer</h3>
+    <h3 align="center">im a mern stack developer</h3>
 
    <img align="right" alt="coding" width="450px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqrad1&label=Profile%20views&color=0e75b6&style=flat" alt="tareqrad1" /> </p>
     
-   - 🌱 I’m currently learning **reactjs,nextjs**
+   - 🌱 I’m currently learning **reactjs,nextjs**node js
     
-   - 👨‍💻 All of my projects are available at [https://github.com/tareqrad](https://github.com/tareqrad)
+   - 👨‍💻 All of my projects are available at [https://github.com/tareqrad1](https://github.com/tareqrad1)
     
-  - 🐱‍👤 my website [https://tareqrad1.github.io/protofillo/](https://tareqrad1.github.io/protofillo/)
-    
-   - 💬 Ask me about **frontend with reactjs**
+   - 💬 Ask me about **frontend and backend with reactjs and nodejs**
     
    <h3 align="left">Connect with me:</h3>
    <p align="left">

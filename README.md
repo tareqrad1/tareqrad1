@@ -22,9 +22,7 @@
 <a href="https://nodejs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tareqrad1/tareqrad1/assets/99852895/9cc43435-e774-4e78-8d11-7b2eeb899281" alt="nodejs"/> </a>
     
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareqrad1&show_icons=true&locale=en&layout=compact" alt="tareqrad1" /></p>
-   <p><img align="left" src="https://github.com/tareqrad1/tareqrad1/assets/99852895/1af86e0f-6556-42f2-9f23-56df534eca91" alt="tareqrad1" /></p>
+<!--    <p><img align="left" src="https://github.com/tareqrad1/tareqrad1/assets/99852895/1af86e0f-6556-42f2-9f23-56df534eca91" alt="tareqrad1" /></p> -->
    
     
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareqrad1&show_icons=true&locale=en" alt="tareqrad1" /></p>
-    
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqrad1" alt="tareqrad1" /></p>

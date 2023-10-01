@@ -5,7 +5,7 @@
     
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqrad1&label=Profile%20views&color=0e75b6&style=flat" alt="tareqrad1" /> </p>
     
-   - 🌱 I’m currently learning **reactjs,nextjs,nodejs**
+   - 🌱 I’m currently learning **reactjs,nodejs**
     
    - 👨‍💻 All of my projects are available at [https://github.com/tareqrad1](https://github.com/tareqrad1)
     

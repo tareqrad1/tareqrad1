@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tareq Radi</h1>
-    <h3 align="center">im a full stack developer</h3>
+    <h3 align="center">im a full stack Enginner</h3>
 
    <img align="right" alt="coding" width="450px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqrad1&label=Profile%20views&color=0e75b6&style=flat" alt="tareqrad1" /> </p>
-    
-   - 🌱 I’m currently learning **reactjs,nodejs**
     
    - 👨‍💻 All of my projects are available at [https://github.com/tareqrad1](https://github.com/tareqrad1)
     

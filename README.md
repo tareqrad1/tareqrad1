@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Radi</h1>
-    <h3 align="center">Software Engineer & Full Stack Developer🐱‍👤</h3>
+    <h3 align="center">Software Engineer & Full Stack Developer 👨🏻‍💻</h3>
 
    <img align="right" alt="coding" width="450px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     

@@ -44,7 +44,7 @@ I craft responsive UIs, powerful backends, and seamless user experiences using R
 - Performance tuning in Next.js (App Router)
 - Real-time apps with WebSockets
 - Modular code structures & monorepo setups
-- Advanced JWT & OAuth authentication
+- Advanced JWT & OTP Verification
 - Clean architecture patterns for scalable systems
 
 ---

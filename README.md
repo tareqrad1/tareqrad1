@@ -58,7 +58,7 @@ I’m open to collaborating on:
 
 ### 📬 Reach Me
 - 📧 Email: [raditareq16@gmail.com](mailto:raditareq16@gmail.com)  
-- 💼 LinkedIn: [@tareq-radi](https://linkedin.com/in/tareq-radi)  
+- 💼 LinkedIn: [@tareqradi](https://linkedin.com/in/tareqradi)  
 - 📸 Instagram: [@tareq.radi](https://instagram.com/tareq.radi)
 
 ---
